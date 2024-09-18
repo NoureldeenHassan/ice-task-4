@@ -8,7 +8,7 @@ View detailed information for each location, including name, address, ratings, a
 Get directions to a selected location.
 
 API Used
- Google Places API (or an alternative)
+ Google Places API 
 The app integrates with the Google Places API to retrieve data on nearby points of interest. This API provides details like place names, addresses, photos, opening hours, ratings, and reviews.
 
 Permissions Needed
